@@ -1,0 +1,13 @@
+# Keep taxpayer case data and local app state out of Git.
+/okafor_lindqvist_2025_packet.json
+*.sqlite
+*.sqlite3
+*.db
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+/workpaper-submission.zip
+/cloudflare_demo/
+
